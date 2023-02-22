@@ -1,0 +1,63 @@
+// Kevin Morales
+// CIS 2542 - NET03
+// Chapter 2 - Assignment 3
+
+5/5/1977 10/24/1973
+2/25/1944 9/30/1982
+3/5/1999 3/7/1999
+3/5/1999 3/5/1999
+
+
+Output:
+Enter date1 and date2:
+5/5/1977
+10/24/1973
+Printing date1 and date2
+5/5/1977
+10/24/1973
+5/5/1977 is not equal to 10/24/1973
+5/5/1977 is greater than 10/24/1973
+Increment of date1: 5/6/1977
+Increment of date2: 10/25/1973
+
+---End of Run---
+
+Enter date1 and date2:
+2/25/1944
+9/30/1982
+Printing date1 and date2
+2/25/1944
+9/30/1982
+2/25/1944 is not equal to 9/30/1982
+2/25/1944 is less than 9/30/1982
+Increment of date1: 2/26/1944
+Increment of date2: 10/1/1982
+
+---End of Run---
+
+Enter date1 and date2:
+3/5/1999
+3/7/1999
+Printing date1 and date2
+3/5/1999
+3/7/1999
+3/5/1999 is not equal to 3/7/1999
+3/5/1999 is less than 3/7/1999
+Increment of date1: 3/6/1999
+Increment of date2: 3/8/1999
+
+---End of Run---
+
+Enter date1 and date2:
+3/5/1999
+3/5/1999
+Printing date1 and date2
+3/5/1999
+3/5/1999
+3/5/1999 is equal to 3/5/1999
+Increment of date1: 3/6/1999
+Increment of date2: 3/6/1999
+
+---End of Run---
+
+Enter date1 and date2:
